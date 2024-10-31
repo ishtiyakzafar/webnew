@@ -1,1 +1,0 @@
-import{j as s}from"./index-DNRZ_Kra.js";const o=({title:a,heading:e,description:n})=>s.jsxs("div",{"data-aos":"fade-up",className:"about-us-content",children:[a&&s.jsx("h6",{children:a}),e&&s.jsx("h1",{children:e}),n&&s.jsx("p",{children:n})]});export{o as S};
